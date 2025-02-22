@@ -1,1 +1,1 @@
-# paramita
+# dpu-modern-data-pipelines
